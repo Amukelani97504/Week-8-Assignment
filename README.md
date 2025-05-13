@@ -15,5 +15,4 @@ This is a basic database system for managing books, authors, and members in a li
 2. Open your MySQL Workbench or any SQL client.
 3. Run the `database.sql` file to create tables.
 
-## 🗺️ ERD
-*(Optional)* Insert a screenshot or a link to your ERD here.
+
